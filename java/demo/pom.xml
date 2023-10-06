@@ -98,7 +98,7 @@
     <dependency>
       <groupId>com.googlecode.libphonenumber</groupId>
       <artifactId>carrier</artifactId>
-      <version>1.79-SNAPSHOT</version>
+      <version>1.204</version>
     </dependency>
   </dependencies>
 
